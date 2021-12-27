@@ -1,0 +1,15 @@
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px; /* Half of width and height - will look like a circle */
+  /* How to centre an image */
+  /* You need to do - text align centre in the parent element*/
+}
+
+.image {
+  text-align: center;
+}
+
+#todays-challenge {
+  color: rgb(170, 96, 83);
+}
